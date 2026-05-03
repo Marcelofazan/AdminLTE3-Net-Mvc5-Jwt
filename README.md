@@ -1,14 +1,14 @@
-# JWT-Claim-AspNet-MVC-Responsivo-MySQL
+### JWT-Claim-AspNet-MVC-Responsivo-MySQL
 
 Exemplo de utilização de AdminLTE na Autorização de Segurança Claims e JWT com geração do Token para Segurança na Navegação em MVC com banco de dados MySQL.
 
-## AdminLTE em (https://adminlte.io/ )
+#### AdminLTE em (https://adminlte.io/ )
 
 * Template Responsivo AdminLTE 3.2 - rc
 
   - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip)
 
-## Requisitos e Detalhe do uso do AdminLTE
+#### Requisitos e Detalhe do uso do AdminLTE
 
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
@@ -28,18 +28,18 @@ adminlte
         |-------| /plugins
 ```
 
-## O que você vai encontrar neste projeto
+#### O que você vai encontrar neste projeto
 
 - **AdminLTE** - Layout Responsivo JavaScript e uso de bibliotecas (Plugins).
 - **Dicionário de Dados** - Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados.
 - **Claims** - Autorização com contexto Header para compartilhar dados da aplicação com segurança.
 - **JWT Token** - Segurança na navegação com uso criptografado de sessão do navegador.
 
-## Execução da aplicação
+#### Execução da aplicação
 
 Para executar a aplicação é necessário a execução do Script do MySql. 
 
-### String de conexão do banco
+#### String de conexão do banco
 
 Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
 

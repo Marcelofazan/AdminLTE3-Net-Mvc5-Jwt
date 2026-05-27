@@ -1,6 +1,5 @@
 ## 🌍 Net-Mvc-Claim-Jwt
-
-Exemplo de utilização de AdminLTE na Autorização de Segurança Claims e JWT com geração do Token para Segurança na Navegação em MVC com banco de dados MySQL.
+Exemplo de criação de Autorização de Segurança Claims e geração do Token JWT, desenvolvido em NET MVC5 e AdminLTE3 com banco de dados MySQL.
 
 #### O que você vai encontrar neste projeto
 | Tecnologia | Descrição |

@@ -9,7 +9,7 @@ Exemplo de criação de Segurança e Autorização com Claims e geração do Tok
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados.  |
 | **JWT** | É um crachá digital usado para identificar usuários e trocar informações de forma segura entre computadores. |
 
-#### 📁 Requisitos do Projeto
+#### Requisitos do Projeto
 
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 

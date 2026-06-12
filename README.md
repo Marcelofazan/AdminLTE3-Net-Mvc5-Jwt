@@ -2,7 +2,7 @@
 Exemplo de criação de Segurança e Autorização com Claims e geração do Token JWT, desenvolvido em NET MVC5 Razor e AdminLTE3 com banco de dados MySQL.
 
 #### 🎨 Aqui está uma demonstração do Projeto
-<img width="700" height="400" alt="19 04 2026_19 13 55_REC" src="https://github.com/user-attachments/assets/3c9cdbbe-cc65-46ed-97bd-d335ed109cd2" />
+<img width="800" height="350" alt="19 04 2026_19 13 55_REC" src="https://github.com/user-attachments/assets/3c9cdbbe-cc65-46ed-97bd-d335ed109cd2" />
 
 #### O que você vai encontrar neste projeto
 | Tecnologia | Descrição |

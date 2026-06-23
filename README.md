@@ -1,4 +1,4 @@
-## 🌐 AdminLTE3-Mvc5-Jwt
+## 🌐 AdminLTE3-Net-Mvc5-Jwt
 Exemplo de autenticação Jwt com renderização AdminLTE3 em C# ASP.NET MVC5 com banco de dados MySQL.
 
 #### 🎨 Aqui está uma demonstração do Projeto
